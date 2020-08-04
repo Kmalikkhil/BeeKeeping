@@ -1,0 +1,11 @@
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.exe
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.deps.json
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.json
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.dev.json
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.dll
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.pdb
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csprojAssemblyReference.cache
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfoInputs.cache
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfo.cs
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.dll
+D:\GITHUB FOLDER\SEMESTER-TWO\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.pdb

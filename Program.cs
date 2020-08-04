@@ -6,6 +6,8 @@ namespace BeeKeeping
     {
         static void Main(string[] args)
         {
+            //instantiating Bees object (Creating Bees)
+            
             Bee b1 = new Bee("John", 3.2F);
             Bee b2 = new Bee("Paul", 2.7F);
             Bee b3 = new Bee("George", 1.1F);
@@ -15,6 +17,8 @@ namespace BeeKeeping
             Bee b6 = new Bee("Dave", 7.4F);
             Bee b7 = new Bee("Krist", 1.5F);
 
+
+            //instantiating Behives
             Beehive bh1 = new Beehive();
             bh1.AddBee2Behive(b1);
             bh1.AddBee2Behive(b2);
@@ -27,6 +31,7 @@ namespace BeeKeeping
             bh2.AddBee2Behive(b7);
 
             // Collect Honey per behive
+           
             //Behive # 1
             System.Console.WriteLine("***********************************");
             bh1.NumberOfBumblebees();

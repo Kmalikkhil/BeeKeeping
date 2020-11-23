@@ -17,5 +17,9 @@ namespace BeeKeeping
             this.Size = size;
         }
 
+        public float getBeeSize(){
+            return this.Size;
+        }
+
     }
 }

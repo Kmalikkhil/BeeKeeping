@@ -27,13 +27,14 @@ namespace BeeKeeping
 
         //Gets Collected Honey amount Method
         public void CollectHoney (int days) {
-            
+            float Amount1 = 0;
             foreach (Bee bumblebee in this.Bees){
                 float Amount = days * bumblebee.Size * 0.2F;
-                Console.WriteLine($"Honey collectd by {bumblebee.Name} in {days} days is: {Amount} Kilograms" );
+                Amount1 =+ Amount;
+               // Console.WriteLine($"Honey collectd by {bumblebee.Name} in {days} days is: {Amount} Kilograms" );
 
             }
-            
+            System.Console.WriteLine(Amount1);
         }
         // Gets Number of Bees in the hive
         public void NumberOfBumblebees () {
